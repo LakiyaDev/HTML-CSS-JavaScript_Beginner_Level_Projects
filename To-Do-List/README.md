@@ -27,7 +27,7 @@ A **simple and interactive To-Do List application** built using **HTML**, **CSS*
 
 Here is the Preview of Simple To-Do List Application <br><br>
 
-<img src="To-Do-List/To-Do-List Preview.png">
+<img src="To-Do-List Preview.png">
 
 ---
 
