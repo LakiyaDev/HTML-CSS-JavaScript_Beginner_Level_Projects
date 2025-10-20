@@ -47,7 +47,7 @@ Here is a Preview of Job Application Form.
 
 1. **Clone or Download** the repository:
 ```bash
-git clone https://github.com/yourusername/job-application-form.git
+git clone https://github.com/LakiyaDev/HTML-CSS-JavaScript_Beginner_Level_Projects/tree/main/JobApplicationForm.git
 ```
 ---
 
